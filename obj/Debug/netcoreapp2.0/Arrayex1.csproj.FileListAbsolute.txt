@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Arrayex1\bin\Debug\netcoreapp2.0\Arrayex1.deps.json
+C:\Users\Administrator\Desktop\Arrayex1\bin\Debug\netcoreapp2.0\Arrayex1.runtimeconfig.json
+C:\Users\Administrator\Desktop\Arrayex1\bin\Debug\netcoreapp2.0\Arrayex1.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Arrayex1\bin\Debug\netcoreapp2.0\Arrayex1.dll
+C:\Users\Administrator\Desktop\Arrayex1\bin\Debug\netcoreapp2.0\Arrayex1.pdb
+C:\Users\Administrator\Desktop\Arrayex1\obj\Debug\netcoreapp2.0\Arrayex1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Arrayex1\obj\Debug\netcoreapp2.0\Arrayex1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Arrayex1\obj\Debug\netcoreapp2.0\Arrayex1.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Arrayex1\obj\Debug\netcoreapp2.0\Arrayex1.dll
+C:\Users\Administrator\Desktop\Arrayex1\obj\Debug\netcoreapp2.0\Arrayex1.pdb
